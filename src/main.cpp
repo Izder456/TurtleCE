@@ -1,4 +1,4 @@
-#include "../include/turtlecoin-crypo.h"
+#include "../include/turtlecoin-crypto.h"
 #include <stdio.h>
 #include <iostream>
 #include <string>
